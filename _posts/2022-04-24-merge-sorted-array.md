@@ -2,7 +2,7 @@
 layout: post
 author: ansonYam
 title: 88. Merge Sorted Array
-module: Data Structure I
+tags: array sorting
 ---
 
 ## Problem:

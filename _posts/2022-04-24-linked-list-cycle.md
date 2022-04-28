@@ -2,7 +2,7 @@
 layout: post
 author: ansonYam
 title: 141. Linked List Cycle
-module: Data Structure I
+tags: hash-table linked-list
 ---
 
 ## Problem:

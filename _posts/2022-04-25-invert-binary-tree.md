@@ -2,6 +2,6 @@
 layout: post
 author: ansonYam
 title: 226. Invert Binary Tree
-module: Data Structure I
+tags: tree
 ---
 Further pog-tent here.
